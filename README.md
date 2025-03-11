@@ -19,3 +19,11 @@ Durante o curso de testes automatizados com Cypress (intermediário) foi desenvo
 - Como habilitar funcionalidades experimentais do Cypress
 - Como executar comandos à nível de sistema operacional
 - E como testar a leitura de arquivos
+
+OBSERVAÇÃO
+No meu caso para conseguir publicar esse projeto no git, precisei alterar nos comandos:o
+- git remote add origin -> git remote add github
+- git push origin main -> git push github main
+Poderia talvez ter removido o origin do projeto original e apontado para o meu repositório, mas executei da forma anterior.
+Material:
+https://stackoverflow.com/questions/10904339/github-fatal-remote-origin-already-exists
